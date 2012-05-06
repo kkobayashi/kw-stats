@@ -1,4 +1,4 @@
-hatena-kw-stats
+kw-stats
 ===============
 
-hatena keyword analysis tools
+keyword analysis tools, for instance hatena, wikipedia etc.
