@@ -3,5 +3,8 @@ kw-stats
 
 keyword analysis tools
 
--hatena
--wikipedia
+features
+---------------
+
+- hatena
+- wikipedia
